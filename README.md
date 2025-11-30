@@ -17,7 +17,7 @@ Grafikler, sesler veya diğer Unity varlıkları paylaşılmamıştır.
 - Oyun sonu yönetimi
 - Dokunmatik uyumlu hareket kontrolleri
 - Temiz ve bölümlenmiş C# kod yapısı
-- 
+  
 Script Yapısı
 Proje aşağıdaki temel C# dosyalarından oluşur:
 - GameManager.cs	Skor, zorluk, oyun sonu ve ses yönetimi
@@ -26,6 +26,14 @@ Proje aşağıdaki temel C# dosyalarından oluşur:
 - ObstacleMovement.cs	Engellerin ilerlemesi ve yok edilmesi
 - CameraShake.cs	Çarpışma sonrası kamera sallanması
 Her bir script bağımsızdır ve kolayca başka projelere uyarlanabilir.
+
+Oyun Görselleri
+Sürücü Seçim Ekranı
+<img src="screenshots/character_select.png" width="300">
+Oyun İçi Ekran
+<img src="screenshots/gameplay.png" width="300">
+Oyun Bitti Ekranı
+<img src="screenshots/game_over.png" width="300">
 
 Nasıl Çalıştırılır
 - Unity'yi açın.
