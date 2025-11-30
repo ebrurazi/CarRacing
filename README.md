@@ -27,13 +27,16 @@ Proje aşağıdaki temel C# dosyalarından oluşur:
 - CameraShake.cs	Çarpışma sonrası kamera sallanması
 Her bir script bağımsızdır ve kolayca başka projelere uyarlanabilir.
 
-Oyun Görselleri
-Sürücü Seçim Ekranı
-<img src="screenshots/character_select.png" width="300">
-Oyun İçi Ekran
-<img src="screenshots/gameplay.png" width="300">
-Oyun Bitti Ekranı
-<img src="screenshots/game_over.png" width="300">
+## Oyun Görselleri
+
+### Sürücünü Seç Ekranı
+![Sürücünü Seç Ekranı](screenshots/Ekran Resmi 2025-11-30 15.17.13.png)
+
+### Oyun İçi Ekran
+![Oyun İçi Ekran](screenshots/Ekran Resmi 2025-11-30 15.26.30.png)
+
+### Oyun Bitti Ekranı
+![Oyun Bitti Ekranı](screenshots/Ekran Resmi 2025-11-30 15.29.15.png)
 
 Nasıl Çalıştırılır
 - Unity'yi açın.
