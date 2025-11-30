@@ -56,5 +56,5 @@ Teknolojiler
 GELİŞTİRİCİ
 - Ebru RAZİ
 - GitHub: https://github.com/ebrurazi
-- Medium: https://medium.com/@ebrurazi
+- Medium: https://medium.com/@ebrurazii
 - LinkedIn: https://www.linkedin.com/in/ebru-razi
